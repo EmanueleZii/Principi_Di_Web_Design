@@ -27,10 +27,6 @@ Una guida pensata per chi sviluppa e vuole anche imparare a progettare interfacc
 
 ⸻
 
-## 🎨 2. Colori nel Web Design
-
-Significato dei Colori Principali
-
 ## 🎨 Significato dei Colori nel Web Design
 
 | Colore     | Significato                             | Uso Tipico                               |
