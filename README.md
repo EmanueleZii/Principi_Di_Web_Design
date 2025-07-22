@@ -31,15 +31,15 @@ Una guida pensata per chi sviluppa e vuole anche imparare a progettare interfacc
 
 Significato dei Colori Principali
 
-## Colore	   Significato	                    Uso Tipico
--- Rosso	  Energia, urgenza, azione	    CTA, pulsanti, alert
--- Verde	 Successo, salute, approvazione	    Conferme, ambienti eco
--- Blu	         Fiducia, calma, professionalità    Corporate,  finance, tech
--- Arancione	 Creatività, entusiasmo, dinamismo   Startup, interazione amichevole
--- Viola	 Lusso, originalità, creatività	    Beauty, arte, prodotti premium
--- Giallo	 Ottimismo, attenzione, calore	    Infanzia, evidenziazione
--- Nero	         Eleganza, mistero, autorità	    Moda, luxury, tech minimal
--- Bianco	 Pulizia, semplicità, ordine	    Background, respiro visivo
+## Colore	          Significato	                           Uso Tipico
+   Rosso	        Energia, urgenza, azione	             CTA, pulsanti, alert
+   Verde	       Successo, salute, approvazione	       Conferme, ambienti eco
+   Blu	         Fiducia, calma, professionalità       Corporate,  finance, tech
+   Arancione	   Creatività, entusiasmo, dinamismo     Startup, interazione amichevole
+   Viola	       Lusso, originalità, creatività	      Beauty, arte, prodotti premium
+   Giallo	       Ottimismo, attenzione, calore	      Infanzia, evidenziazione
+   Nero	         Eleganza, mistero, autorità	       Moda, luxury, tech minimal
+   Bianco	       Pulizia, semplicità, ordine	       Background, respiro visivo
 
 ## 🎨 Schemi di Colori Utili
 
