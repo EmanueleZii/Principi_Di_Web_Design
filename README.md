@@ -13,7 +13,7 @@ Una guida pensata per chi sviluppa e vuole anche imparare a progettare interfacc
 •	Titoli grandi, testi piccoli, call-to-action evidenti.
 •	Usa spaziatura e contrasto per guidare l’occhio.
 
-#📱 Responsive Design
+## 📱 Responsive Design
 •	Deve funzionare bene su mobile, tablet, desktop.
 •	Usa Flexbox/Grid, media query e font scalabili (rem/em).
 
